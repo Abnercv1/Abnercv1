@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abnercv1
-- 👀 I’m interested in Python programation.
+- 👀 I’m interested in Python, C and C++.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
